@@ -1,0 +1,8 @@
+{
+    "targetFramework" : "netstandard2.0",
+    "packageName" : "Acme.App.MastercardApi.Client",
+    "packageVersion" : "1.0.0",
+    "sourceFolder" : "",
+    "netCoreProjectFile": true,
+    "optionalAssemblyInfo": false
+}
